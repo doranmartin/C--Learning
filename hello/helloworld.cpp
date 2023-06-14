@@ -9,7 +9,7 @@ int main()
   vector<string> msg {"Hello", "Dor", "What's", "Up"};
   for (const string& word : msg)
   {
-    cout << word << " ";
+    cout << word << "hi";
   }
   cout << endl;
 }
